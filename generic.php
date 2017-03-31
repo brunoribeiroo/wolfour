@@ -183,7 +183,7 @@ echo "<label>Data de Término :</label>".$data_fim2;?></p>
 					
 				</div>
 			</section>
-			 <?php }else{
+			 <?php }}else{
  	echo "<center><span>Nenhum projeto criado pendente. Crie um !  </span></center>"; 
  }
 
